@@ -1,0 +1,6 @@
+{
+  "name": "Ulang Kaji Sains Tahun 4 - Manusia, Haiwan & Bahan",
+  "description": "Modul interaktif pembelajaran Sains Tahun 4 (KSSR Semakan) merangkumi nota ringkas bergambar rajah berwarna, kuiz penguasaan bertanda aras minimum 70%, sistem lencana & bintang ganjaran, dan sijil penghargaan digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
